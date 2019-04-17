@@ -1,0 +1,19 @@
+{
+"India": [
+{"parent": "Gujarat", "name": "Ahmedabad"},
+{"parent": "Gujarat", "name": "Vadodara"},
+{"parent": "Gujarat", "name": "Surat"},
+{"parent": "Gujarat", "name": "Anand"},
+{"parent": "Gujarat", "name": "Rajkot"},
+{"parent": "Maharashtra", "name": "Mumbai"},
+{"parent": "Maharashtra", "name": "Pune"},
+{"parent": "Maharashtra", "name": "Nashik"},
+{"parent": "Himachal Pradesh", "name": "Shimla"},
+{"parent": "Himachal Pradesh", "name": "Manali"},
+{"parent": "Himachal Pradesh", "name": "Dalhousie"},
+{"parent": "Himachal Pradesh", "name": "Kullu"},
+{"parent": "Assam", "name": "Guwahati"},
+{"parent": "Assam", "name": "Tezpur"},
+{"parent": "Assam", "name": "Jorhat"}
+]
+}
